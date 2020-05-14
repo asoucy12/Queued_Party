@@ -1,0 +1,26 @@
+.home--container{
+	margin: 0 auto;
+	width: 600px;
+}
+.home--container h1{
+	text-align: center;
+}
+
+.queue-list{
+	margin: 0; padding: 0;
+	list-style-type: none;
+}
+.queue-list li{
+	padding: 5px 0;
+}
+.queue-list em{
+	font-size: 12px;
+	font-style: normal;
+}
+.queue-list strong{
+	display: inline-block;
+	margin: 0 5px 0 10px;
+}
+.disallow-queue{
+	text-align: center;
+}
